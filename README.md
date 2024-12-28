@@ -65,10 +65,6 @@ A smart parking reservation and management solution designed to streamline urban
 ### Northeastern University, Boston  
 **Master of Science in Software Engineering**  
 *September 2024 - Expected May 2026*  
-Key Courses:  
-- Scalable Software Design  
-- Advanced Database Management  
-- Data-Driven Application Engineering  
 
 ### Gujarat Technological University  
 **Bachelor of Engineering in Computer Science**  
