@@ -1,5 +1,7 @@
 # 🌟 Vanshi Patel  
 
+mg align="right" alt="Coding" width="400" src="https://giphy.com/gifs/RbDKaczqWovIugyJmW"
+
 👋 Hello! I'm **Vanshi Patel**, an enthusiastic software engineer passionate about building scalable systems and solving real-world challenges.  
 
 ## 🚀 About Me  
