@@ -53,47 +53,6 @@ A smart parking reservation and management solution designed to streamline urban
 **Skills:** Python, NLP, Machine Learning, Web Applications  
 
 
-### 🎥 **Video Analysis**  
-- Worked at **L&T Hydrocarbon Engineering Limited** on machine functionality analysis using video data.  
-- Utilized **MakeSense** for annotation and trained models with **YOLOv5** for advanced computer vision tasks.  
-
-**Skills:** Computer Vision, Video Annotation, Flask, Python  
-
-
-### 📄 **Resume Parsing for Automated Interview Process**  
-- Developed a script during an internship at **Broader AI IT Solution LLP** to create interactive assessment content using NLP techniques.  
-- Automated generation of questions like true/false and fill-in-the-blanks from context.  
-
-**Skills:** Python, NLP  
-
-
-### 📑 **Document Scanner**  
-- Built a document scanner with **OpenCV** during an internship, featuring edge detection, perspective correction, and filtering.  
-- Streamlined document scanning processes for efficiency and ease.  
-
-**Skills:** Python, Computer Vision, Image Processing  
-
-
-### 💻 **Exam Portal Backend**  
-- Developed a backend using **Flask** for an exam portal with session management, email notifications, and scheduled access.  
-
-**Skills:** Python, Flask, XAMPP, JavaScript  
-
-
-### 📊 **Power BI Dashboard for INSPIRE'23**  
-- Designed a **Power BI** dashboard to manage event data for the tech fest of CKPCET.  
-- Provided real-time insights into event performance and participant management.  
-
-**Skills:** Microsoft Power BI, Data Visualization, Team Management  
-
-
-### 📱 **STUSPACE: Admin App**  
-- Led development for a college management system with features like attendance tracking, fee management, and notifications.  
-- Built on **Android Studio**, integrated with **Firebase** and **MySQL**.  
-
-**Skills:** Java, MySQL, Firebase  
-
-
 ### 🌡️ **IoT-Based Temperature Monitoring System**  
 - Designed a Python-powered IoT solution for real-time temperature alerts.  
 - Integrated user-controlled settings, email notifications, and buzzer alerts with **Raspberry Pi**.  
@@ -127,29 +86,18 @@ Key Courses:
 2. **Data Mining**  
    - Issuer: **NPTEL**  
    - Issue Date: **April 2023**  
-   - Credential ID: **NPTEL23CS43S45650206**  
+   - Credential ID: **NPTEL23CS43S45650206**   
 
-3. **Microsoft Access**  
-   - Issuer: **LinkedIn**  
-   - Issue Date: **January 2023**  
-
-4. **Python for Data Science**  
+3. **Python for Data Science**  
    - Issuer: **NPTEL**  
    - Issue Date: **October 2022**  
    - Credential ID: **NPTEL22CS74S23500193**  
 
-5. **Artificial Intelligence, Internet of Things, & Enterprise Resource Planning**  
+4. **Artificial Intelligence, Internet of Things, & Enterprise Resource Planning**  
    - Issuer: **SAP**  
    - Issue Date: **August 2022**  
    - Credential ID: **CU23_2196**   
 
-6. **AWS Builders Online Series**  
-   - Issuer: **Amazon Web Services (AWS)**  
-   - Issue Date: **January 2021**  
-
-7. **Microsoft AI Classroom Series**  
-   - Issuer: **Microsoft**  
-   - Issue Date: **December 2020**  
 
 
 
