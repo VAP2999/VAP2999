@@ -1,6 +1,6 @@
-# 🌟 Vanshi Patel  
+//# 🌟 Vanshi Patel  
 
-<img alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNsYWkydnp0eXdrcHNuM2d5bjc0aDF4b3Eza3VybmppMmY4OGUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNsYWkydnp0eXdrcHNuM2d5bjc0aDF4b3Eza3VybmppMmY4OGUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 👋 Hello! I'm **Vanshi Patel**, an enthusiastic software engineer passionate about building scalable systems and solving real-world challenges.  
 
@@ -12,7 +12,7 @@
 ---
 
 ## 🔥 My GitHub Stats  
-![Vanshi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VAP29999&theme=radical)  
+![Vanshi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VAP2999&theme=radical)  
 ![Vanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAP2999&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAP2999&layout=compact&theme=radical)  
 
