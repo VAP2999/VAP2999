@@ -1,6 +1,6 @@
-//# 🌟 Vanshi Patel  
-
-<img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNsYWkydnp0eXdrcHNuM2d5bjc0aDF4b3Eza3VybmppMmY4OGUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<p align="center">
+<img alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNsYWkydnp0eXdrcHNuM2d5bjc0aDF4b3Eza3VybmppMmY4OGUwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+</p>
 
 👋 Hello! I'm **Vanshi Patel**, an enthusiastic software engineer passionate about building scalable systems and solving real-world challenges.  
 
