@@ -9,14 +9,13 @@
 💻 Passionate about backend development, system design, and crafting seamless user experiences.  
 ⚡ Always exploring the intersection of technology and innovation to create impactful solutions.  
 
----
+
 
 ## 🔥 My GitHub Stats  
 ![Vanshi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VAP2999&theme=radical)  
 ![Vanshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VAP2999&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAP2999&layout=compact&theme=radical)  
 
----
 
 ### 💻 **Languages and Tools**
 
@@ -33,8 +32,6 @@
 ![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=flat-square&logo=python&logoColor=white)  ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F4A261?style=flat-square&logo=huggingface&logoColor=black)  ![BERT](https://img.shields.io/badge/BERT-FF6F61?style=flat-square&logo=bert&logoColor=white)
  
 
----
-
 ## 🌟 Notable Projects  
 
 ### 🚗 **Parkbnb**  
@@ -48,8 +45,6 @@ A smart parking reservation and management solution designed to streamline urban
 
 
 
----
-
 ### ✍️ **YouTube Transcript to Detailed Notes Converter**  
 - Built a Streamlit web application that transforms YouTube video transcripts into concise notes.  
 - Integrated the YouTube Transcript API and Google Generative AI for structured summaries.  
@@ -57,7 +52,6 @@ A smart parking reservation and management solution designed to streamline urban
 
 **Skills:** Python, NLP, Machine Learning, Web Applications  
 
----
 
 ### 🎥 **Video Analysis**  
 - Worked at **L&T Hydrocarbon Engineering Limited** on machine functionality analysis using video data.  
@@ -65,7 +59,6 @@ A smart parking reservation and management solution designed to streamline urban
 
 **Skills:** Computer Vision, Video Annotation, Flask, Python  
 
----
 
 ### 📄 **Resume Parsing for Automated Interview Process**  
 - Developed a script during an internship at **Broader AI IT Solution LLP** to create interactive assessment content using NLP techniques.  
@@ -73,7 +66,6 @@ A smart parking reservation and management solution designed to streamline urban
 
 **Skills:** Python, NLP  
 
----
 
 ### 📑 **Document Scanner**  
 - Built a document scanner with **OpenCV** during an internship, featuring edge detection, perspective correction, and filtering.  
@@ -81,14 +73,12 @@ A smart parking reservation and management solution designed to streamline urban
 
 **Skills:** Python, Computer Vision, Image Processing  
 
----
 
 ### 💻 **Exam Portal Backend**  
 - Developed a backend using **Flask** for an exam portal with session management, email notifications, and scheduled access.  
 
 **Skills:** Python, Flask, XAMPP, JavaScript  
 
----
 
 ### 📊 **Power BI Dashboard for INSPIRE'23**  
 - Designed a **Power BI** dashboard to manage event data for the tech fest of CKPCET.  
@@ -96,7 +86,6 @@ A smart parking reservation and management solution designed to streamline urban
 
 **Skills:** Microsoft Power BI, Data Visualization, Team Management  
 
----
 
 ### 📱 **STUSPACE: Admin App**  
 - Led development for a college management system with features like attendance tracking, fee management, and notifications.  
@@ -104,7 +93,6 @@ A smart parking reservation and management solution designed to streamline urban
 
 **Skills:** Java, MySQL, Firebase  
 
----
 
 ### 🌡️ **IoT-Based Temperature Monitoring System**  
 - Designed a Python-powered IoT solution for real-time temperature alerts.  
@@ -113,7 +101,7 @@ A smart parking reservation and management solution designed to streamline urban
 
 **Skills:** IoT, Python, SMTP, Competitive Analysis  
 
----
+
 ## 🎓 Education  
 ### Northeastern University, Boston  
 **Master of Science in Software Engineering**  
@@ -127,7 +115,7 @@ Key Courses:
 **Bachelor of Engineering in Computer Science**  
 *August 2020 - June 2024*  
 
----
+
 
 ### 📜 Certifications  
 
@@ -163,7 +151,6 @@ Key Courses:
    - Issuer: **Microsoft**  
    - Issue Date: **December 2020**  
 
---- 
 
 
 ## 📫 Contact Me  
