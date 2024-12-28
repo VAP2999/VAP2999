@@ -17,7 +17,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAP2999&layout=compact&theme=radical)  
 
 
-### 💻 **Languages and Tools**
+## 💻 **Languages and Tools**
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
@@ -117,7 +117,7 @@ Key Courses:
 
 
 
-### 📜 Certifications  
+## 📜 Certifications  
 
 1. **Applying AI Technologies to the Workplace**  
    - Issuer: **Northeastern University**  
