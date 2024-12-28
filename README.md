@@ -79,23 +79,15 @@ Key Courses:
 ## 📜 Certifications  
 
 1. **Applying AI Technologies to the Workplace**  
-   - Issuer: **Northeastern University**  
-   - Issue Date: **September 2024**  
    - [Show Credential](#)  
 
 2. **Data Mining**  
-   - Issuer: **NPTEL**  
-   - Issue Date: **April 2023**  
    - Credential ID: **NPTEL23CS43S45650206**   
 
 3. **Python for Data Science**  
-   - Issuer: **NPTEL**  
-   - Issue Date: **October 2022**  
    - Credential ID: **NPTEL22CS74S23500193**  
 
-4. **Artificial Intelligence, Internet of Things, & Enterprise Resource Planning**  
-   - Issuer: **SAP**  
-   - Issue Date: **August 2022**  
+4. **Artificial Intelligence, Internet of Things, & Enterprise Resource Planning**   
    - Credential ID: **CU23_2196**   
 
 
