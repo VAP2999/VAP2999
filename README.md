@@ -62,11 +62,11 @@ A smart parking reservation and management solution designed to streamline urban
 
 
 ## 🎓 Education  
-### Northeastern University, Boston  
+### Northeastern University, Boston (GPA: 3.85) 
 **Master of Science in Software Engineering**  
 *September 2024 - Expected May 2026*  
 
-### Gujarat Technological University  
+### Gujarat Technological University (CGPA: 8.98) 
 **Bachelor of Engineering in Computer Science**  
 *August 2020 - June 2024*  
 
