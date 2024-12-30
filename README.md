@@ -17,20 +17,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VAP2999&layout=compact&theme=radical)  
 
 
-## 💻 **Languages and Tools**
-
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-
-**Technologies/Frameworks:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF9900?style=flat-square&logo=webscraper&logoColor=white)  
-
-**ML/DL Libraries:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  ![YOLO](https://img.shields.io/badge/YOLO-FFDD00?style=flat-square&logo=yolo&logoColor=black)  
-
-**NLP Tools:**  
-![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=flat-square&logo=python&logoColor=white)  ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F4A261?style=flat-square&logo=huggingface&logoColor=black)  ![BERT](https://img.shields.io/badge/BERT-FF6F61?style=flat-square&logo=bert&logoColor=white)
- 
 
 ## 🌟 Notable Projects  
 
@@ -71,6 +57,17 @@ A smart parking reservation and management solution designed to streamline urban
 *August 2020 - June 2024*  
 
 
+Here's the revised section with all tools and languages aligned in a single row under the **💻 Languages and Tools** header:
+
+---
+
+## 💻 **Languages and Tools**  
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)  ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF9900?style=flat-square&logo=webscraper&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)  ![YOLO](https://img.shields.io/badge/YOLO-FFDD00?style=flat-square&logo=yolo&logoColor=black)  ![NLTK](https://img.shields.io/badge/NLTK-0277BD?style=flat-square&logo=python&logoColor=white)  ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F4A261?style=flat-square&logo=huggingface&logoColor=black)  ![BERT](https://img.shields.io/badge/BERT-FF6F61?style=flat-square&logo=bert&logoColor=white)
+
+--- 
+
+This format keeps everything concise and visually organized in one section.
 
 ## 📜 Certifications  
 
