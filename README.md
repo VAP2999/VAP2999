@@ -45,7 +45,7 @@ A smart parking reservation and management solution designed to streamline urban
 - Integrated the YouTube Transcript API and Google Generative AI for structured summaries.  
 - Enhanced user experience for seamless note-taking from video content.  
 
-**Skills:** Python, NLP, Machine Learning, Web Applications  
+**Skills:** Python, NLP, Machine Learning, Web Applications
 
 
 ### 🌡️ **IoT-Based Temperature Monitoring System**  
