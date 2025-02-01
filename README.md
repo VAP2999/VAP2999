@@ -18,7 +18,7 @@
 
 
 ## 🎓 Education  
-### Northeastern University, Boston (GPA: 3.85) 
+### Northeastern University, Boston (GPA: 3.85)
 **Master of Science in Software Engineering**  
 *September 2024 - Expected May 2026*  
 
