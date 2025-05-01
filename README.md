@@ -27,34 +27,6 @@
 *August 2020 - June 2024*  
 
 
-## 🌟 Notable Projects  
-
-### 🚗 **Parkbnb**  
-A smart parking reservation and management solution designed to streamline urban parking for users.  
-- **Frontend:** Built dynamic UIs with React.js and Material UI, integrated Google Maps API for real-time visualization.  
-- **Backend:** Developed scalable services with Java and Spring Boot, adhering to SOLID principles.  
-- **Payment Processing:** Integrated Stripe for secure transactions.  
-- **Key Features:** Real-time updates, reservation management, JWT authentication, user-friendly dashboards.  
-
-🎥[Demo Video](https://northeastern-my.sharepoint.com/:v:/r/personal/patel_vanshi_northeastern_edu/Documents/OOD_FINAL_PROJECT_GROUP2.MOV?csf=1&web=1&e=durQvo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-
-
-### ✍️ **YouTube Transcript to Detailed Notes Converter**  
-- Built a Streamlit web application that transforms YouTube video transcripts into concise notes.  
-- Integrated the YouTube Transcript API and Google Generative AI for structured summaries.  
-- Enhanced user experience for seamless note-taking from video content.  
-
-**Skills:** Python, NLP, Machine Learning, Web Applications
-
-
-### 🌡️ **IoT-Based Temperature Monitoring System**  
-- Designed a Python-powered IoT solution for real-time temperature alerts.  
-- Integrated user-controlled settings, email notifications, and buzzer alerts with **Raspberry Pi**.  
-- Advanced to the **SAP Innovation Marathon 2022-23 Semi-Finals**.  
-
-**Skills:** IoT, Python, SMTP, Competitive Analysis  
-
 
 
 ## 💻 **Languages and Tools**  
