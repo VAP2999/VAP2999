@@ -46,7 +46,7 @@
    - Credential ID: **CU23_2196**
 
  5. **Saleforce Certified Platform App Builder**
-   - Cewdential ID: **7014771**
+    - Cewdential ID: **7014771**
 
 
 
