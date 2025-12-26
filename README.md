@@ -5,7 +5,7 @@
 👋 Hello! I'm **Vanshi Patel**, an enthusiastic software engineer passionate about building scalable systems and solving real-world challenges.  
 
 ## 🚀 About Me  
-🎓 **Master's Student** in Software Engineering at **Northeastern University, Boston**.  
+🎓 **Master's Student** in Computer Software Engineering at **Northeastern University, Boston**.  
 💻 Passionate about backend development, system design, and crafting seamless user experiences.  
 ⚡ Always exploring the intersection of technology and innovation to create impactful solutions.  
 
@@ -43,7 +43,10 @@
    - Credential ID: **NPTEL22CS74S23500193**  
 
 4. **Artificial Intelligence, Internet of Things, & Enterprise Resource Planning**   
-   - Credential ID: **CU23_2196**   
+   - Credential ID: **CU23_2196**
+
+ 5. **Saleforce Certified Platform App Builder**
+   - Cewdential ID: **7014771**
 
 
 
