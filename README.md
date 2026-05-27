@@ -12,9 +12,9 @@
 
 
 ## 🎓 Education  
-### Northeastern University, Boston (GPA: 3.89)
+### Northeastern University, Boston (GPA: 3.7)
 **Master of Science in Software Engineering**  
-*September 2024 - Expected May 2026*  
+*September 2024 - Expected August 2026*  
 
 ### Gujarat Technological University (CGPA: 8.98) 
 **Bachelor of Engineering in Computer Science**  
