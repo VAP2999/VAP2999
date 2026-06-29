@@ -2,7 +2,7 @@
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 </p>
 
-👋 I'm **Vanshi Patel** — a software engineer focused on backend systems and production AI infrastructure. I build the pipelines, evaluation frameworks, and distributed systems that turn ML capabilities into products real users depend on.
+👋 I'm **Vanshi Patel**, a software engineer focused on backend systems and production AI infrastructure. I build the pipelines, evaluation frameworks, and distributed systems that turn ML capabilities into products real users depend on.
 
 🎓 MS in Software Engineering Systems @ Northeastern (August 2026) · Previously built production systems at PlanSync, L&T Hydrocarbon, and Broader AI.
 
