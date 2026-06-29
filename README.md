@@ -22,14 +22,19 @@ Python · FastAPI · AWS · PostgreSQL · LangChain · Docker
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 
-## 📜 Certifications
-
-1. **AI Agents Fundamentals**
-   - Hugging Face
-
-2. **Salesforce Certified Platform App Builder**
-   - Credential ID: **7014771**
-
+🔥 Featured Projects
+RareSense — AI-Powered Rare Disease Diagnosis
+Multi-agent diagnostic system using LangChain and RAG over 10,000+ medical records. Top 3 finalist at Harvard Rare Disease Hackathon out of 200+ teams. Built in 48 hours, validated by medical professionals.
+Python · LangChain · FAISS · Flask
+Real-Time Shoplifting Detection System
+Distributed multi-GPU training pipeline combining ResNet-50 with pose estimation. Achieved 81% accuracy with 39% training speedup via PyTorch DDP/FSDP and FP16 mixed precision. Compressed 32GB dataset to 4.2GB through custom HDF5 pipeline.
+PyTorch · DDP/FSDP · ResNet-50 · HDF5
+Distributed Cloud-Native SaaS Platform
+Scalable distributed system on AWS sustaining 5,000 concurrent users at 99.9% uptime. Terraform IaC, blue-green CI/CD, Multi-AZ RDS, Auto Scaling.
+Python · FastAPI · React · AWS · Terraform
+ParkBnB — Smart Parking Marketplace
+Full-stack marketplace with Spring Boot microservices, JWT RBAC, and Stripe payment processing handling 500+ transactions.
+Java · Spring Boot · React · PostgreSQL · Stripe
 
 
 
