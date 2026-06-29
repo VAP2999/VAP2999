@@ -23,7 +23,7 @@ Python · FastAPI · AWS · PostgreSQL · LangChain · Docker
 
 
 🔥 Featured Projects
-RareSense — AI-Powered Rare Disease Diagnosis
+RareSense: AI-Powered Rare Disease Diagnosis
 Multi-agent diagnostic system using LangChain and RAG over 10,000+ medical records. Top 3 finalist at Harvard Rare Disease Hackathon out of 200+ teams. Built in 48 hours, validated by medical professionals.
 Python · LangChain · FAISS · Flask
 Real-Time Shoplifting Detection System
