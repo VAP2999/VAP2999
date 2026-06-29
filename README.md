@@ -2,23 +2,10 @@
 <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 </p>
 
-👋 Hello! I'm **Vanshi Patel**, a software engineer building production AI systems — agentic pipelines, RAG workflows, LLM evaluation frameworks, and the full-stack infrastructure they run on.
+👋 I'm Vanshi Patel — a software engineer focused on backend systems and production AI infrastructure. I build the pipelines, evaluation frameworks, and distributed systems that turn ML capabilities into products real users depend on.
+🎓 MS in Software Engineering Systems @ Northeastern (August 2026) · Previously built production systems at PlanSync, L&T Hydrocarbon, and Broader AI.
+Python · FastAPI · AWS · PostgreSQL · LangChain · Docker
 
-## 🚀 About Me
-🎓 **Master's Student** in Software Engineering Systems at **Northeastern University, Boston** (graduating August 2026).
-💻 Focused on applied AI: shipping agents, RAG systems, and LLM-powered tools that real users depend on daily.
-⚡ I care about the gap between AI demos and production systems — and I build on the production side.
-
-
-
-## 🎓 Education
-### Northeastern University, Boston (GPA: 3.7)
-**Master of Science in Software Engineering Systems**
-*September 2024 - Expected August 2026*
-
-### Gujarat Technological University (CGPA: 8.98)
-**Bachelor of Engineering in Computer Engineering**
-*August 2020 - June 2024*
 
 
 
